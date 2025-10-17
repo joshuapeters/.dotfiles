@@ -1,0 +1,1 @@
+/Users/jp/.dotfiles/nvim/init.lua
